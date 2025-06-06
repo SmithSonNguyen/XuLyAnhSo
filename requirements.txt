@@ -1,0 +1,14 @@
+python==3.12.8
+streamlit
+opencv-python-headless
+opencv-python
+numpy
+pandas
+Pillow
+ultralytics<=8.3.40
+supervision
+roboflow
+mediapipe
+tensorflow
+scikit-learn
+joblib
