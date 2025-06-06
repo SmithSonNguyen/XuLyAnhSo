@@ -93,5 +93,3 @@ python make_data.py
 ```python
 python xu_ly_anh_so.py
 ```
-
-> > > > > > > master
