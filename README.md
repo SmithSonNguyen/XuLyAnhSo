@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# XuLyAnhSo
-
-Xem ở branch master
-=======
 # Digital Image Processing & Recognition Project
 
 ## Introduction
@@ -98,4 +93,5 @@ python make_data.py
 ```python
 python xu_ly_anh_so.py
 ```
->>>>>>> master
+
+> > > > > > > master
